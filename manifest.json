@@ -5,7 +5,7 @@
   "documentation": "https://github.com/deinGitHubName/raumheizungssteuerung",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@deinGitHubName"],
+  "codeowners": ["@JoshuaRene"],
   "config_flow": true,
   "iot_class": "local_polling"
 }
