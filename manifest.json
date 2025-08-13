@@ -1,0 +1,11 @@
+{
+  "domain": "raumheizungssteuerung",
+  "name": "Raumheizungssteuerung",
+  "version": "1.0.0",
+  "documentation": "https://github.com/deinGitHubName/raumheizungssteuerung",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@deinGitHubName"],
+  "config_flow": true,
+  "iot_class": "local_polling"
+}
