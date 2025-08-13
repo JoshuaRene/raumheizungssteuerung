@@ -2,10 +2,10 @@
   "domain": "raumheizungssteuerung",
   "name": "Raumheizungssteuerung",
   "version": "1.0.0",
-  "documentation": "https://github.com/JoshuaRene/raumheizungssteuerung",
+  "documentation": "https://github.com/joshuarene/raumheizungssteuerung",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@JoshuaRene"],
+  "codeowners": ["@joshuarene"],
   "config_flow": true,
   "iot_class": "local_polling"
 }
