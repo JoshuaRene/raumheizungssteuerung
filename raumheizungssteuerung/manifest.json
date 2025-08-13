@@ -2,7 +2,7 @@
   "domain": "raumheizungssteuerung",
   "name": "Raumheizungssteuerung",
   "version": "1.0.0",
-  "documentation": "https://github.com/deinGitHubName/raumheizungssteuerung",
+  "documentation": "https://github.com/JoshuaRene/raumheizungssteuerung",
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@joshuarene"],
